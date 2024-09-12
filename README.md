@@ -1,18 +1,6 @@
-## Foundry
+## CLAMM
 
-**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
-
-Foundry consists of:
-
--   **Forge**: Ethereum testing framework (like Truffle, Hardhat and DappTools).
--   **Cast**: Swiss army knife for interacting with EVM smart contracts, sending transactions and getting chain data.
--   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
--   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
-
-## Documentation
-
-https://book.getfoundry.sh/
-
+**CLAMM is concentrated liquidity automated market maker, an uniswap v3 clone with exclusion of oracle, protocol fees etc written in solidity **
 ## Usage
 
 ### Build
@@ -64,3 +52,5 @@ $ forge --help
 $ anvil --help
 $ cast --help
 ```
+
+Original Credit: https://www.youtube.com/playlist?list=PLO5VPQH6OWdXp2_Nk8U7V-zh7suI05i0E
