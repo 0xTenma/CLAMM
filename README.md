@@ -1,6 +1,6 @@
 ## CLAMM
 
-**CLAMM is concentrated liquidity automated market maker, an uniswap v3 clone with exclusion of oracle, protocol fees etc written in solidity **
+**CLAMM is concentrated liquidity automated market maker, an uniswap v3 clone with exclusion of oracle, protocol fees etc written in solidity**
 ## Usage
 
 ### Build
